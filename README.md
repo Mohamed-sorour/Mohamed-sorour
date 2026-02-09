@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align='center'>👋 Hello!</h1>
 
-<!--
-**Mohamed-sorour/Mohamed-sorour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Manual Testing • Automation Testing • API Testing • Performance Testing • Bug Reporting
+</h3>
 
-Here are some ideas to get you started:
+<p align='center'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Mohamed-sorour?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Mohamed-sorour?style=flat&logo=github&label=Total%20Stars&color=teal"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-e-s/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ehab-blue?style=flat&logo=linkedin"/>
+</a>
+
+<a href="mailto:mohamed.ehab.sorour@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mohamed.ehab.sorour%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+Glad to see you here! I'm Mohamed Ehab, a **Software Test Engineer** passionate about delivering high-quality software through **Manual Testing**, **Automation Testing**, **API Testing**, and **Performance Testing**.
+I enjoy writing test cases, reporting bugs, and ensuring software stability using tools like **Jira**, **Postman**, **Selenium WebDriver**, and **JMeter**.
